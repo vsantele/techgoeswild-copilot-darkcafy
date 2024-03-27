@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "semanticKernel"
+	},
+	{
+		"path": "flutter"
+	}
+],
+  "settings": {
+    "debug.internalConsoleOptions": "neverOpen"
+  }
+}
