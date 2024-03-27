@@ -36,9 +36,6 @@ public class KernelSettings
     [JsonPropertyName("spotifyClientId")]
     public string SpotifyClientId { get; set; } = string.Empty;
 
-    [JsonPropertyName("spotifyClientSecret")]
-    public string SpotifyClientSecret { get; set; } = string.Empty;
-
     [JsonPropertyName("spotifyDeviceId")]
     public string SpotifyDeviceId { get; set; } = string.Empty;
 

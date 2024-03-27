@@ -22,11 +22,14 @@ For Debugging the console application alone, we suggest using .NET [Secret Manag
 
 Configure global secrets
 
+- spotifyClientId: The client id of your [Spotify app](https://developer.spotify.com/documentation/web-api/concepts/apps) (required to play music)
+- spotifyDeviceId: The device id of the device you want to play music on. You can get it by running the [api call here](https://developer.spotify.com/documentation/web-api/reference/get-a-users-available-devices)
+- darkCafyUrl: The URL of the DarkCafy server. If used with flutter, it should be your phone IP address.
+
 ```powershell
 dotnet user-secrets set "spotifyClientId" "..."
-dotnet user-secrets set "spotifyClientSecret" "..."
 dotnet user-secrets set "spotifyDeviceId" "..."
-dotnet user-secrets set "darkCafyUrl" "..."
+dotnet user-secrets set "darkCafyUrl" "http://..."
 ```
 
 Configure an OpenAI endpoint
