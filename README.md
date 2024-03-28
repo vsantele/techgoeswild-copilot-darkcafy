@@ -12,7 +12,11 @@ It's a chatbot that makes coffee, literally. (And it can play music via Spotify)
 
 It was an opportunity to discover [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/?wt.mc_id=studentamb_236461). A framework that allows you to create agent that can call code easily.
 
-[![DarkCafy Video Demo](assets/demo.mp4)](assets/demo.mp4)
+## Demo
+
+https://github.com/vsantele/techgoeswild-copilot-darkcafy/assets/26800140/499fd38b-5d16-4b92-a9ba-cdc269c9796c
+
+[Youtube Link](https://youtu.be/xw797QjNrw8)
 
 ## Why a flutter app?
 
