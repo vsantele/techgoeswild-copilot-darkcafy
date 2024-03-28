@@ -12,6 +12,8 @@ It's a chatbot that makes coffee, literally. (And it can play music via Spotify)
 
 It was an opportunity to discover [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/?wt.mc_id=studentamb_236461). A framework that allows you to create agent that can call code easily.
 
+[![DarkCafy Video Demo](assets/demo.mp4)](assets/demo.mp4)
+
 ## Why a flutter app?
 
 The flutter app is not an interface for the chatbot (but it will be in the future). It's the only way I found to establish a connection between the chatbot and the coffee machine. The chatbot running on my computer sends a http request to a webserver embedded inside the flutter that will send a signal to the coffee machine to brew.
