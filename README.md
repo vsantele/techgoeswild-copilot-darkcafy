@@ -1,6 +1,6 @@
 # Tech Goes Wild: Copilot Cafy
 
-Project realised during the Tech Goes Wild hackathon, organised by [MIC belgique](https://mic-belgique.com). I was there as a coach but I manage to do this little project.
+Project realised during the Tech Goes Wild hackathon, organised by [MIC belgique](https://mic-belgique.be). I was there as a coach but I manage to do this little project.
 
 ## The project
 
